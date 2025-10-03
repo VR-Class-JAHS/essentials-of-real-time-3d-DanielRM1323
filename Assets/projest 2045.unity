@@ -545,13 +545,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 358021736}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.023312518, y: -0.64000994, z: -0.019433297, w: 0.767767}
-  m_LocalPosition: {x: 13.3, y: 4.04, z: -1.2499999}
+  m_LocalRotation: {x: -0.03006479, y: -0.99858123, z: 0.004151532, w: 0.04375344}
+  m_LocalPosition: {x: -0.94000053, y: 4.8, z: 13.69}
   m_LocalScale: {x: 1.1223, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -3.478, y: -79.629, z: 0}
+  m_LocalEulerAnglesHint: {x: 0.324, y: -174.972, z: 3.463}
 --- !u!1 &367227435
 GameObject:
   m_ObjectHideFlags: 0
@@ -800,7 +800,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 4e9b8794b1b122249a1324d76e8bb236, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2351,13 +2351,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2085658120}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.15081245, z: -0, w: 0.9885624}
-  m_LocalPosition: {x: 6.13, y: 2.22, z: 1.92}
+  m_LocalRotation: {x: -0.6382479, y: -0.2663683, z: -0.5420229, w: 0.47738734}
+  m_LocalPosition: {x: 19.23, y: 5.75, z: 8.18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1356077375}
-  m_LocalEulerAnglesHint: {x: 0, y: -17.348, z: 0}
+  m_LocalEulerAnglesHint: {x: -63.914, y: 84.339, z: -156.193}
 --- !u!135 &2085658122
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2365,7 +2365,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2085658120}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 39d1eef322c038f42a2e07eccf2953fb, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -2399,7 +2399,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 1c138f5e080ad6d49b193da581d31b43, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
